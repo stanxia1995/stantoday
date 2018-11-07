@@ -1,0 +1,11 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Stan"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Data"
+      href: data.html
+    - text: "Results"
+      href: results.html

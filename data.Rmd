@@ -1,0 +1,11 @@
+---
+title: "Data"
+---
+
+```{r,echo=F}
+vector <- c(2,3,5,7,8,9)
+vector2 <- vector
+plot(vector,vector2)
+
+"Stan"
+```
